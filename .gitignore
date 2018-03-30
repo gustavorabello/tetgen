@@ -1,0 +1,7 @@
+*.o
+*.a
+*.dat
+*.swp
+*.swo
+.DS_Store
+tetgen
